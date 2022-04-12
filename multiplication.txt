@@ -1,3 +1,0 @@
-num1=70
-num2=80
-ech0 $((num1*num2))

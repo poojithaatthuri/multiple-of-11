@@ -1,3 +1,0 @@
-num1=20
-num2=50
-echo $((num1+num2))
